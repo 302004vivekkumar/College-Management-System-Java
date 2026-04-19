@@ -1,0 +1,6 @@
+
+/target/
+*.jar
+*.exe
+db.properties
+nbproject/private/
